@@ -2,7 +2,7 @@
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on with other developers
-- 📫 How to reach me reach me on discord @ charles0010352
+- 📫 How to reach me on discord @ charles0010352
 - 😄 Pronouns: He
 - ⚡ Fun fact: I will be awesome.
 
